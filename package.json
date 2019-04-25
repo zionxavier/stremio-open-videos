@@ -1,0 +1,15 @@
+{
+  "name": "stremio-open-video",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "needle": "^2.2.4",
+    "stremio-addon-sdk": "^1.2.0"
+  },
+  "engines": {
+    "node": "8.12.0"
+  }
+}
